@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreszel
-- 👀 I’m interested in travel, sport
-- 🌱 I’m currently learning laravel, react
+- 👀 I’m interested in footbal, travel, sport
+- 🌱 I’m currently learning symfony, php, jira, laravel
 - 💞️ I’m looking for challenges to develop my skills.
 - 📫 How to reach me 
 https://pl.linkedin.com/in/andrzej-szelka-8a365ba6?trk=public_profile_samename-profile
